@@ -1,4 +1,4 @@
-# Gabriel Freire, Juliana Moreira, Massuello Quaresma
+# Gabriel Vieira, Juliana Moreira, Massuello Quaresma
 import time
 
 while True:
